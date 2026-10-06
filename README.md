@@ -1,4 +1,4 @@
-**# bcs350-assignment1
+# bcs350-assignment1
 
 1. What is the name of your business? - Interastral Peace Corporation (IPC)
 2. Is the business real or fictional? - Fictional
